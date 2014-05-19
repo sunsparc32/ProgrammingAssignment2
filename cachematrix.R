@@ -1,7 +1,8 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Create a Matrix object that is capable of caching its inverse
 
-## Write a short comment describing this function
+
+## Coding is very similar to that of the vector example. The vector object is replaced by a matrix object and 
+## mean is replaced by inverse
 
 makeCacheMatrix <- function(x = matrix()) {
 
